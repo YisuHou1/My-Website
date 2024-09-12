@@ -4,4 +4,4 @@ title: "Website Reflection 2"
 
 This is a Quarto website.
 
-Welcome to my website
+Welcome to my website.
