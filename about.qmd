@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-This cite is an empty cite that has nothing in it.
+This cite is an empty cite that has nothing in it. This page doesn't have any
+content, leave the cite or else you are wasting your own time.

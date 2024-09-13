@@ -1,7 +1,5 @@
 ---
-title: "Yisu Hou"
+title: "Yisu Hou's Website"
 ---
 
-This is a Quarto website.
-
-Welcome to my website. AAAAAAAAAA
+Welcome to my website. 
